@@ -1,4 +1,4 @@
 corresponds to latest v32 files from offline
 syst file contains:
-JES, ISR, bTag (point-by-point)
-Lumi (4.4%), DeadECAL (2%), MHT_MET (2%), 3jet (0.5%) (flat)
+JES, ISR, bTag, PDF(point-by-point)
+Lumi (2.3%), DeadECAL (2%), MHT_MET (2%), 3jet (4%) (flat)
