@@ -1,4 +1,4 @@
 corresponds to latest v7 files from offline
 syst file contains:
-JES, ISR, bTag, LeptonVeto (point-by-point)
+JES, ISR, bTag, LeptonVeto, PDF (point-by-point)
 Lumi (4.4%), DeadECAL (2%), MHT_MET (2%) (flat)
