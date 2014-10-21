@@ -1,0 +1,5 @@
+corresponds to v16 offline files
+contains updated stop vect reweighting. the "strip_outliers" function is removed, and
+so a smoother weight as a function of boost is obtained.
+weights are still derived for mStop (no dependance on mLSP).
+systematics are copied from v15
